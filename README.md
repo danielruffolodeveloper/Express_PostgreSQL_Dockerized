@@ -1,12 +1,12 @@
-# Express - Postgress Dockerized Example App
+# Express - PostgreSQL Dockerized Example App
 - An example app highlighting how to use Express.js with Postgress to build a easy REST Api for your applications.
 - The solution is a simple app enabling to create a note with a title and content element
 - The solution also goes into detail about Docker and how it can be used to make your development environment set up very easy
-- This repo is functionality complete and is intended for demonstraition purposes, more can be done to make this secure for production such as managing secrets for database credentials and protecting attacks from occuring in the runtime
+- This repo is functionality complete and is intended for demonstraition purposes. More can be done to make this secure for production such as managing secrets for database credentials and protecting attacks from occuring in the runtime.
 
 # Getting started
 
-To get the Node + Postgres server running locally using docker-compose:
+To get the Node + PostgreSQL server running locally using docker-compose:
 
 - Clone this repo
 - run `docker-compose build` to build the images defined 
@@ -30,8 +30,8 @@ To Delete a note, Use a tool such as Insomnia or Postman or a bowser to make a D
 - [npm](https://www.npmjs.com/) - package manager for installing dependencies
 - [node](https://nodejs.org/en/) - JavaScript runtime
 - [expressjs](https://github.com/expressjs/express) - Web application framework 
-- [sequelize](https://sequelize.org/) - Sequelize is a promise-based Node.js ORM for Postgres
-- [Postgres](https://www.postgresql.org/) - Relational database used for storing and serving data in a relational manner
+- [sequelize](https://sequelize.org/) - Sequelize is a promise-based Node.js ORM for PostgreSQL
+- [PostgreSQL](https://www.postgresql.org/) - Relational database used for storing and serving data in a relational manner
 - [Docker](https://www.docker.com/) - Containerization for local environment
 
 
