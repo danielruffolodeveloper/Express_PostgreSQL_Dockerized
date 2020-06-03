@@ -3,6 +3,8 @@ var express = require('express');
 var router = express.Router();
 var db = require('../database');
 
+
+
 //Summary of routes
 //Get all notes
 //Create a note
