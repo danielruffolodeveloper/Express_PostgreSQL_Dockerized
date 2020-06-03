@@ -15,7 +15,7 @@ To get the Node server running locally:
 ## Dependencies
 
 - [expressjs](https://github.com/expressjs/express) - The server for handling and routing HTTP requests
-- [Postgres](https://github.com/expressjs/express) - The server for handling and routing HTTP requests
+- [Postgres](https://www.postgresql.org/) - Relational database used for storing and serving data in a relational manner
 
 ## Application Structure
 
